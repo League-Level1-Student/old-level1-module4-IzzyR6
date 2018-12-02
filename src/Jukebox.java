@@ -42,6 +42,7 @@ public class Jukebox implements Runnable {
 		 */
 		Song song2= new Song("Hedwig's Theme.mp3");
 		
+		
 	}
 
 	/* Use this method to add album covers to your Panel. */
